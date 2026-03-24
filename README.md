@@ -1,18 +1,37 @@
-# About me
+# Hi, I’m Beverly Rasmussen
 
-**bmrasmussen/bmrasmussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data professional transitioning from Product Ownership and Program Management into hands-on Data Engineering, with a focus on SQL and Python.
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* Built SQL data models and pipelines to support access audits and risk analysis at Google
+* Developed data workflows to process and validate large-scale operational datasets at DISH Wireless
+* Experience working with complex, hierarchical data and designing systems to make it usable and actionable
 
-<!--
-comments (not visible in public read me)
--->
+## What I’m Focused On
+
+* Strengthening SQL and Python for data engineering
+* Building data pipelines and transformation workflows
+* Learning modern data stack tools and cloud data platforms
+
+## Skills
+
+* SQL (data modeling, transformation, query optimization)
+* Python (data processing, scripting)
+* Data pipelines and workflow design
+* Working with hierarchical and relational data
+* Tableau / dashboarding
+
+## Current Work
+
+I’m currently focused on building and refining my data engineering skillset through hands-on practice and projects.
+
+## Interests
+
+* Data pipeline design
+* Scalable data systems
+* Turning complex data into usable datasets
+
+---
+
+Feel free to connect or check back as I continue building out projects.
